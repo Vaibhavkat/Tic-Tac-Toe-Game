@@ -29,7 +29,7 @@ body {
     width: 100vw;
     min-height: 100vh;
     color: var(--white);
-    background-image: url("images/image.jpg");
+    background-image: url("image.jpg");
     /* background: linear-gradient(90deg, rgba(0, 255, 235, 1) 0%, rgba(7, 58, 187, 1) 100%); */
     display: grid;
     place-items: center;
